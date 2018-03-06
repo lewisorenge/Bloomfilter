@@ -1,2 +1,0 @@
-# Bloomfilter
-search help
